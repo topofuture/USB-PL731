@@ -1,6 +1,6 @@
 # USB-PL731
 PL731是一款USB总线的转接模块，实现USB转7个异步串口功能。用于为计算机扩展异步串口，满足大多数一对多应用场景。
-![image](pictures/PL731_solution.jpg)
+![image](pictures/PL731_solution_02.jpg)
 
 ## 特性
 12 Mbps全速USB 2.0设备接口，模块封装，硬件只需要连接USB和TTL串口。
